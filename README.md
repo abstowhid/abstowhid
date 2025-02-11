@@ -24,3 +24,4 @@ I'm currently learning Solidity
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=dracula)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
