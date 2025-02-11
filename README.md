@@ -22,3 +22,5 @@ I'm currently learning Solidity
 
 [![](https://visitcount.itsvg.in/api?id=abstowhid&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=default)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/abstowhid?label=Weekly%20Commits&color=blue&logo=github)
