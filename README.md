@@ -14,14 +14,11 @@ I'm currently learning Solidity
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abstowhid&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abstowhid&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=dracula)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abstowhid&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=abstowhid&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
+
