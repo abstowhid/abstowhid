@@ -1,19 +1,7 @@
 # Hello💫I'm Towhid, a Blockchain and Frontend Developer
 I'm currently learning Solidity
 
-![HTML5](https://img.shields.io/badge/html5-%23E57373.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%2390CAF9.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23FFF176.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Solidity](https://img.shields.io/badge/Solidity-%23B0BEC5.svg?style=for-the-badge&logo=solidity&logoColor=black)  
-![React](https://img.shields.io/badge/react-%23B3E5FC.svg?style=for-the-badge&logo=react&logoColor=%230081CB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23B2DFDB.svg?style=for-the-badge&logo=tailwind-css&logoColor=%23006E6A)  
-![Web3.js](https://img.shields.io/badge/web3.js-%23FFCC80.svg?style=for-the-badge&logo=web3.js&logoColor=black)  
-![Adobe](https://img.shields.io/badge/adobe-%23FFAB91.svg?style=for-the-badge&logo=adobe&logoColor=black)  
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FFCC80.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23B3E5FC.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=%230071A8)  
-![Git](https://img.shields.io/badge/git-%23FFCDD2.svg?style=for-the-badge&logo=git&logoColor=black)  
-![GitHub](https://img.shields.io/badge/github-%23E0E0E0.svg?style=for-the-badge&logo=github&logoColor=black)  
-![GitLab](https://img.shields.io/badge/gitlab-%23FFCCBC.svg?style=for-the-badge&logo=gitlab&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/javascript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-1E1E1E?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1E1E1E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![Web3.js](https://img.shields.io/badge/web3.js-1E1E1E?style=for-the-badge&logo=web3.js&logoColor=F16822) ![Adobe](https://img.shields.io/badge/adobe-1E1E1E?style=for-the-badge&logo=adobe&logoColor=FF0000) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-1E1E1E?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-1E1E1E?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF) ![Git](https://img.shields.io/badge/git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05033) ![GitHub](https://img.shields.io/badge/github-1E1E1E?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-1E1E1E?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abstowhid1)
