@@ -23,6 +23,11 @@ I'm currently learning Solidity
 
 [![](https://visitcount.itsvg.in/api?id=abstowhid&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abstowhid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abstowhid&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=dracula)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
