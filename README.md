@@ -24,7 +24,7 @@ I'm currently learning Solidity
 ![Photoshop](https://img.shields.io/badge/Photoshop-2196F3?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=F05033) 
 ![GitHub](https://img.shields.io/badge/GitHub-252525?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black)
+
 
 
 # 📊 GitHub Stats:
