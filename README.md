@@ -28,6 +28,3 @@ I'm currently learning Solidity
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abstowhid&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abstowhid&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abstowhid&layout=compact&theme=tokyonight)
