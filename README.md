@@ -11,7 +11,7 @@ I'm currently learning Solidity
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQ17LjEaLqcSzK0Hd0k33iw) 
  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/to__wh__id) -->
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack:
 ### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)
