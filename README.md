@@ -16,7 +16,7 @@ I'm currently learning Solidity
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)  
 ![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=000000)  
-![Solidity](https://img.shields.io/badge/Solidity-2A2A2A?style=for-the-badge&logo=solidity&logoColor=white&labelColor=00FFA3)  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
