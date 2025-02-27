@@ -11,7 +11,8 @@ I'm currently learning Solidity
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQ17LjEaLqcSzK0Hd0k33iw) 
  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/to__wh__id) -->
 
-  
+
+ ---
 # 🚀 Tech Stack:
 ### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -19,14 +20,12 @@ I'm currently learning Solidity
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
----
 
 ### 📚 Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Web3.js](https://img.shields.io/badge/Web3.js-FF8F00?style=for-the-badge&logo=web3.js&logoColor=000000)
 
----
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05033)
