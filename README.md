@@ -32,14 +32,13 @@ I'm currently learning Solidity
 ![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-2A2A2A?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 
----
 
 ### 🎨 Design & Creative Tools
 ![Adobe](https://img.shields.io/badge/Adobe-1E1E1E?style=for-the-badge&logo=adobe&logoColor=FF0000)
 ![Illustrator](https://img.shields.io/badge/Illustrator-2A2A2A?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-252525?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
 
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abstowhid&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
