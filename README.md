@@ -14,29 +14,29 @@ I'm currently learning Solidity
 ## 🚀 Tech Stack
 ### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=000000)  
+![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
 ### 📚 Libraries & Frameworks
-![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)  
-![Web3.js](https://img.shields.io/badge/Web3.js-FF8F00?style=for-the-badge&logo=web3.js&logoColor=000000)  
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Web3.js](https://img.shields.io/badge/Web3.js-FF8F00?style=for-the-badge&logo=web3.js&logoColor=000000)
 
 ---
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05033)  
-![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-2A2A2A?style=for-the-badge&logo=gitlab&logoColor=FC6D26)  
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-2A2A2A?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 
 ---
 
 ### 🎨 Design & Creative Tools
-![Adobe](https://img.shields.io/badge/Adobe-1E1E1E?style=for-the-badge&logo=adobe&logoColor=FF0000)  
-![Illustrator](https://img.shields.io/badge/Illustrator-2A2A2A?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)  
+![Adobe](https://img.shields.io/badge/Adobe-1E1E1E?style=for-the-badge&logo=adobe&logoColor=FF0000)
+![Illustrator](https://img.shields.io/badge/Illustrator-2A2A2A?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-252525?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
 
 
